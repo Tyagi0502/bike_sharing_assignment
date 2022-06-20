@@ -33,4 +33,4 @@
 
 ## Contact
 
-Created by [@Tyagi0502] - feel free to contact me!
+Created by [[Abhishek Tyagi](https://github.com/Tyagi0502)] - feel free to contact me!
